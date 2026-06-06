@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pz21last"
+    namespace = "com.example.PR21-pr-23.103-fn"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -12,7 +12,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.pz21last"
+        applicationId = "com.example.PR21-pr-23.103-fn"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
