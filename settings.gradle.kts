@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PZ21Last"
+rootProject.name = "PR21-pr-23.103-fn"
 include(":app")
  
