@@ -1,4 +1,4 @@
-package com.example.pz21last
+package com.example.PR21-pr-23.103-fn
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
