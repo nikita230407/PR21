@@ -1,4 +1,4 @@
-package com.example.pz21last.navigation
+package com.example.PR21-pr-23.103-fn.navigation
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
